@@ -31,4 +31,4 @@ if __name__ == "__main__":
             break
 
         mode = predict(text, model, tokenizer)
-        print(f"🧠 분류 결과: {mode}")
+        print(f"🤖 분류 결과: {mode}")
